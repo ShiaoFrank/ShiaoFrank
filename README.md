@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShiaoFrank
-- 👀 I’m interested in Mathematical Statistics, Machine Learning
+- 👀 I’m interested in Mathematical Statistics, Machine Learning, Probability
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shihaof1024@gamil.com
